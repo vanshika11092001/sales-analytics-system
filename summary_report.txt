@@ -1,0 +1,74 @@
+==============================
+SALES ANALYTICS REPORT
+==============================
+
+Generated On: 2024-12-18 14:30:22
+Records Processed: 95
+
+--------------------------------
+OVERALL SUMMARY
+--------------------------------
+Total Revenue: ₹15,45,000.00
+Total Transactions: 95
+Average Order Value: ₹16,263.16
+Date Range: 2024-12-01 to 2024-12-31
+
+--------------------------------
+REGION-WISE PERFORMANCE
+--------------------------------
+Region     Sales        % of Total   Transactions
+North      ₹4,50,000    29.13%       25
+South      ₹3,80,000    24.60%       22
+East       ₹3,10,000    20.06%       18
+West       ₹3,05,000    19.74%       20
+
+--------------------------------
+TOP 5 PRODUCTS
+--------------------------------
+Rank   Product Name     Quantity Sold   Revenue
+1      Laptop           15              ₹3,75,000
+2      Smartphone       18              ₹3,24,000
+3      Headphones       25              ₹1,25,000
+4      Keyboard         30              ₹90,000
+5      Mouse            40              ₹80,000
+
+--------------------------------
+TOP 5 CUSTOMERS
+--------------------------------
+Rank   Customer ID   Total Spent   Orders
+1      C001          ₹2,50,000     6
+2      C014          ₹2,10,000     5
+3      C022          ₹1,95,000     4
+4      C030          ₹1,80,000     4
+5      C045          ₹1,60,000     3
+
+--------------------------------
+DAILY SALES TREND
+--------------------------------
+Date         Revenue      Transactions   Unique Customers
+2024-12-01   ₹45,000      5              5
+2024-12-02   ₹62,000      6              6
+2024-12-03   ₹78,000      7              7
+...
+
+--------------------------------
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------
+Best Selling Day: 2024-12-15
+Low Performing Products: None
+Average Transaction Value Per Region:
+North: ₹18,000
+South: ₹17,200
+East: ₹15,800
+West: ₹15,400
+
+--------------------------------
+API ENRICHMENT SUMMARY
+--------------------------------
+Total Products Enriched: 80
+Successful Enrichment Rate: 84%
+Products Not Enriched: P999, P888, P777
+
+==============================
+END OF REPORT
+==============================
